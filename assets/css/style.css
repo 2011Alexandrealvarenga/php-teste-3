@@ -1,0 +1,9 @@
+ul.menu{
+	list-style: none;
+	padding: 10px;
+	display: flex;
+}
+
+ul li{
+	padding: 10px;
+}

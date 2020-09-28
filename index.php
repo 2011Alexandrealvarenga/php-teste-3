@@ -5,7 +5,7 @@ include 'includes/header.php';
 <div class="container">
   <div class="row">
     <div class="col">
-      body
+      home
     </div>
   </div>
 </div>
